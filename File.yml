@@ -1,0 +1,24 @@
+student:
+  general information:
+    name: Yaroslav
+    surname: Vasylchenko
+    age: 28
+    city: Kiev
+  profession:
+    company: Playwing
+    position: QA group lead engineer
+    experience: ' 8 months'
+  contactNumbers:
+    - type: home
+      number: 044-33-322
+    - type: mobile
+      number: '+380680543702'
+  automation-course:
+    teacher: Oleksandr Podoliako
+  response:
+    satisfaction: true
+    discontent: null
+  Pluses:
+    - new knowledge
+    - all clear
+    - great practice

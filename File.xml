@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <student>
+        <generalinformation>
+            <name>Yaroslav</name>
+            <surname>Vasylchenko</surname>
+            <age>28</age>
+            <city>Kiev</city>
+        </generalinformation>
+        <profession>
+            <company>Playwing</company>
+            <position>QA group lead engineer</position>
+            <experience> 8 months</experience>
+        </profession>
+        <contactNumbers>
+            <type>home</type>
+            <number>044-33-322</number>
+        </contactNumbers>
+        <contactNumbers>
+            <type>mobile</type>
+            <number>+380680543702</number>
+        </contactNumbers>
+        <automationcourse>
+            <teacher>Oleksandr Podoliako</teacher>
+        </automationcourse>
+        <response>
+            <satisfaction>true</satisfaction>
+            <discontent />
+        </response>
+        <Pluses>new knowledge</Pluses>
+        <Pluses>all clear</Pluses>
+        <Pluses>great practice</Pluses>
+    </student>
+</root>
